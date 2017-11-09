@@ -44,6 +44,13 @@ Research Paper | Datasets  | Metric | Source Code | Year
 [Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | Yelp | Accuracy: 67.36 | NOT AVAILABLE YET | 2017
 
 
+#### 4. Natural Language Inference
+Research Paper | Datasets  | Metric | Source Code | Year
+------------ | ------------- | ------------ | ------------- | -------------
+[DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT AVAILABLE YET | 2017
+
+
+
 ## Unsupervised Learning
 
 
