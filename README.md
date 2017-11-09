@@ -26,12 +26,46 @@ This summary is categorized into:
 
 ### NLP
 #### 1. Language Modelling
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | -------------  | -------------
-[Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN](https://arxiv.org/pdf/1709.07432.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 51.1 </li><li> Perplexity: 44.3 </li></ul> |  [Pytorch](https://github.com/benkrause/dynamic-evaluation) | 2017
-[Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN](https://arxiv.org/pdf/1708.02182.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 52.8 </li><li> Perplexity: 52.0 </li></ul> |  [Pytorch](https://github.com/salesforce/awd-lstm-lm) | 2017
-[FRATERNAL DROPOUT](https://arxiv.org/pdf/1711.00066.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1</li></ul> |  NOT YET AVAILABLE | 2017
-[Factorization tricks for LSTM networks](https://arxiv.org/pdf/1703.10722.pdf) |One Billion Word Benchmark |  Preplexity:  23.36 | [Tensorflow](https://github.com/okuchaiev/f-lm) | 2017
+
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1709.07432.pdf'>DYNAMIC EVALUATION OF NEURAL SEQUENCE MODELS </a></td>
+      <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
+      <td align="left"><ul><li> Preplexity: 51.1 </li><li> Perplexity: 44.3 </li></ul></td>
+      <td align="left"><a href='https://github.com/benkrause/dynamic-evaluation'>Pytorch </a></td>
+      <td align="left">2017</td>   
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1708.02182.pdf'>Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN </a></td>
+      <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
+      <td align="left"><ul><li> Preplexity: 52.8 </li><li> Perplexity: 52.0 </li></ul></td>
+      <td align="left"><a href='https://github.com/salesforce/awd-lstm-lm'>Pytorch </a></td>
+      <td align="left">2017</td>   
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1711.00066.pdf'>FRATERNAL DROPOUT </a></td>
+      <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
+      <td align="left"><ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1 </li></ul></td>
+      <td align="left"> NOT AVAILABLE YET</td>
+      <td align="left">2017</td>   
+    </tr>
+        <tr>
+      <td><a href='https://arxiv.org/pdf/1711.00066.pdf'>Factorization tricks for LSTM networks </a></td>
+      <td align="left">One Billion Word Benchmark</td>
+      <td align="left"> Preplexity:  23.36</td>
+      <td align="left"><a href='https://github.com/okuchaiev/f-lm'>Tensorflow </a></td>
+      <td align="left">2017</td>   
+    </tr>
+  </tbody>
+</table>
 
 
 
