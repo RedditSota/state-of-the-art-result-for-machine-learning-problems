@@ -56,6 +56,16 @@ Research Paper | Datasets  | Metric | Source Code | Year
 [Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT AVAILABLE YET | 2017
 
 
+
+#### 6. Named entity recognition
+
+Research Paper | Datasets  | Metric | Source Code | Year
+------------ | ------------- | ------------ | ------------- | -------------
+[Named entity recognition in tweets: an experimental study](https://dl.acm.org/citation.cfm?id=2145595) | Ritter | F-measure: 0.59 |[NLTK](https://github.com/aritter/twitter_nlp) | 2011
+
+
+
+
 ## Unsupervised Learning
 
 
