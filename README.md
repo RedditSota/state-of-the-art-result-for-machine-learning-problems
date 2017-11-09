@@ -4,7 +4,7 @@
 
 This repository provides state-of-the-art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
 
-You can also submit this [Google Form] (https://docs.google.com/forms/d/e/1FAIpQLSeMnkZ24YqiNkQEER_ihckenijBP7GpQpv8ZrkBnY7ythCItw/viewform?usp=sf_link) if you are new to Github.
+You can also submit this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeMnkZ24YqiNkQEER_ihckenijBP7GpQpv8ZrkBnY7ythCItw/viewform?usp=sf_link) if you are new to Github.
 
 This is an attempt to make  one stop for all types of machine learning problems state of the art result.
 
