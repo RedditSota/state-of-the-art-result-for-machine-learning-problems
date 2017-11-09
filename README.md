@@ -87,4 +87,6 @@ Research Paper | Datasets  | Metric | Source Code | Year
 ## Reinforcement Learning
 
 
+If you like to be a collaborator, please write me to this.
+
 Email: redditsota@gmail.com 
