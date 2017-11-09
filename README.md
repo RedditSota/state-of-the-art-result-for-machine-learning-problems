@@ -7,8 +7,17 @@ This is an attempt to make  one stop for all types of machine learning problems 
 This summary is categorized into:
 
 - Supervised Learning
+    - Speech
+    - Computer Vision
+    - NLP
 - Unsupervised Learning
+    - Speech
+    - Computer Vision
+    - NLP
 - Transfer Learning
+    - Speech
+    - Computer Vision
+    - NLP
 - Reinforcement Learning
 
 ## Supervised Learning
