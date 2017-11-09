@@ -30,7 +30,6 @@ This summary is categorized into:
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | -------------  | -------------
 [Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN](https://arxiv.org/pdf/1709.07432.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 51.1 </li><li> Perplexity: 44.3 </li></ul> |  [Pytorch](https://github.com/benkrause/dynamic-evaluation) | 2017
-
 [Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN](https://arxiv.org/pdf/1708.02182.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 52.8 </li><li> Perplexity: 52.0 </li></ul> |  [Pytorch](https://github.com/salesforce/awd-lstm-lm) | 2017
 [FRATERNAL DROPOUT](https://arxiv.org/pdf/1711.00066.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1</li></ul> |  NOT AVAILABLE YET | 2017
 
