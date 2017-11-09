@@ -11,9 +11,12 @@ This summary is categorized into:
 - Transfer Learning
 - Reinforcement Learning
 
+## Supervised Learning
 
 
-Research Paper | Metric () | Source Code | Datasets
+### NLP
+#### Language Modelling
+Research Paper | Metric  | Source Code | Datasets
 ------------ | ------------- | ------------ | -------------
 Content from cell 1 | Content from cell 2 | xyz | abc
 Content in the first column | Content in the second column | xyz | abc
