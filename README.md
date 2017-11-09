@@ -38,6 +38,10 @@ Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | <ul><li> WMT 2014 English-to-French </li><li> WMT 2014 English-to-German </li></ul> | <ul><li> BLEU: 41.0 </li><li> BLEU: 28.4</li></ul> |  <ul><li> [PyTorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) </li><li> [Tensorflow](https://github.com/tensorflow/tensor2tensor) </li></ul> | 2017
 
+#### 2. Text Classification
+Research Paper | Datasets  | Metric | Source Code | Year
+------------ | ------------- | ------------ | ------------- | -------------
+[Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | <ul><li>Yelp.</li></ul> | <ul><li> Accuracy: 67.36 </li></ul> | NOT AVAILABLE YET | 2017
 
 
 ## Unsupervised Learning
