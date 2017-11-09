@@ -61,7 +61,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[Named entity recognition in tweets: an experimental study](https://dl.acm.org/citation.cfm?id=2145595) | Ritter | F-measure: 0.59 |[NLTK](https://github.com/aritter/twitter_nlp) | 2011
+[Named Entity Recognition in Twitter using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 |[NLTK](https://github.com/aritter/twitter_nlp) | 2017
 
 
 
