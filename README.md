@@ -160,7 +160,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/abs/1705.09207'> PROGRESSIVE GROWING OF GANS FOR IMPROVED
 QUALITY, STABILITY, AND VARIATION </a></td>
       <td align="left">Unsupervised CIFAR 10</td>
-      <td align="left">Inception score: 8.80 i</td>
+      <td align="left">Inception score: 8.80 </td>
       <td align="left"> <a='https://github.com/tkarras/progressive_growing_of_gans'>Theano</a></td>
       <td align="left">2017</td>    
     </tr>
