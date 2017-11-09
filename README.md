@@ -145,6 +145,27 @@ Research Paper | Datasets  | Metric | Source Code | Year
 
 ## Unsupervised Learning
 
+#### Computer Vision
+##### 1. Generative Model
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1705.09207'> PROGRESSIVE GROWING OF GANS FOR IMPROVED
+QUALITY, STABILITY, AND VARIATION </a></td>
+      <td align="left">Unsupervised CIFAR 10</td>
+      <td align="left">Inception score: 8.80 i</td>
+      <td align="left"> <a='https://github.com/tkarras/progressive_growing_of_gans'>Theano</a></td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
 
 ## Transfer Learning
 
