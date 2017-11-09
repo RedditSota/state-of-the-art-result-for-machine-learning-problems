@@ -27,10 +27,10 @@ This summary is categorized into:
 
 ### NLP
 #### Language Modelling
-Research Paper | Metric  | Source Code | Datasets
+Research Paper | Datasets  | Metric | Source Code
 ------------ | ------------- | ------------ | -------------
-Content from cell 1 | Content from cell 2 | xyz | abc
-Content in the first column | Content in the second column | xyz | abc
+[FRATERNAL DROPOUT](https://arxiv.org/pdf/1711.00066.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1</li></ul> |  NOT AVAILABLE YET
+
 
 
 #### Machine Translation
