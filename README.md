@@ -15,6 +15,8 @@ This summary is categorized into:
     - [Speech](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#speech)
     - [Computer Vision](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#computer-vision)
     - [NLP](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#nlp)
+- [Semi-supervised Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#semi-supervised-learning)
+    - Computer Vision
 - [Unsupervised Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#unsupervised-learning)
     - Speech
     - Computer Vision
