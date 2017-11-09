@@ -1,4 +1,4 @@
-# State-of-the-art result for all Machine Learning Problems and datasets
+# State-of-the-art result for all Machine Learning Problems
 
 ### LAST UPDATE: 9th November, 2017
 
