@@ -64,6 +64,13 @@ Research Paper | Datasets  | Metric | Source Code | Year
 [Named Entity Recognition in Twitter <br /> using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 | NOT YET AVAILABLE | 2017
 
 
+### Computer Vision
+
+#### 1. Classification
+
+Research Paper | Datasets  | Metric | Source Code | Year
+------------ | ------------- | ------------ | ------------- | -------------
+[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) | MNIST  | Test Error: 0.25±0.005 | <ul><li> [PyTorch](https://github.com/gram-ai/capsule-networks) </li><li> [Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) </li><li> [Keras](https://github.com/XifengGuo/CapsNet-Keras) </li></ul>  | 2017
 
 
 ## Unsupervised Learning
