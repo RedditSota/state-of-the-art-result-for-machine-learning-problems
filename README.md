@@ -10,16 +10,16 @@ This is an attempt to make  one stop for all types of machine learning problems 
 
 This summary is categorized into:
 
-- Supervised Learning
+- [Supervised Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#supervised-learning)
+    - [Speech](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#speech)
+    - [Computer Vision](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#computer-vision)
+    - [NLP](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#nlp)
+- [Unsupervised Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#unsupervised-learning)
     - Speech
     - Computer Vision
     - NLP
-- Unsupervised Learning
-    - Speech
-    - Computer Vision
-    - NLP
-- Transfer Learning
-- Reinforcement Learning
+- [Transfer Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#transfer-learning)
+- [Reinforcement Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#reinforcement-learning)
 
 ## Supervised Learning
 
