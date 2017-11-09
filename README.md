@@ -54,7 +54,7 @@ This summary is categorized into:
       <td><a href='https://arxiv.org/pdf/1711.00066.pdf'>FRATERNAL DROPOUT </a></td>
       <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
       <td align="left"><ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1 </li></ul></td>
-      <td align="left"> NOT AVAILABLE YET</td>
+      <td align="left"> <a href='https://github.com/kondiz/fraternal-dropout'> Pytorch </a>  </td>
       <td align="left">2017</td>   
     </tr>
         <tr>
