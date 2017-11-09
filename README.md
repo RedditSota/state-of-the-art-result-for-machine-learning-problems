@@ -25,6 +25,9 @@ Content in the first column | Content in the second column | xyz | abc
 #### Machine Translation
 Research Paper | Metric  | Source Code | Datasets
 ------------ | ------------- | ------------ | -------------
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762) | - WMT 2014 English-to-French BLEU: 41.0 - WMT 2014 Englishto-German: 28.4 | [PyTorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch), [Tensorflow] (https://github.com/tensorflow/tensor2tensor) | WMT 2014 English-to-German, WMT 2014 English-to-French
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762) | - WMT 2014 English-to-French BLEU: 41.0 
+- WMT 2014 Englishto-German: 28.4 | - [PyTorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) 
+- [Tensorflow](https://github.com/tensorflow/tensor2tensor) | -WMT 2014 English-to-German
+- WMT 2014 English-to-French
 
 Content in the first column | Content in the second column | xyz | abc
