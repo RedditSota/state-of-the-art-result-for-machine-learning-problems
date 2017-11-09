@@ -47,7 +47,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 #### 4. Natural Language Inference
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT AVAILABLE YET | 2017
+[DiSAN: Directional Self-Attention Network <br /> for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT AVAILABLE YET | 2017
 
 
 
