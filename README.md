@@ -28,7 +28,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | -------------  | -------------
 [Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN](https://arxiv.org/pdf/1709.07432.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 51.1 </li><li> Perplexity: 44.3 </li></ul> |  [Pytorch](https://github.com/benkrause/dynamic-evaluation) | 2017
 [Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN](https://arxiv.org/pdf/1708.02182.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 52.8 </li><li> Perplexity: 52.0 </li></ul> |  [Pytorch](https://github.com/salesforce/awd-lstm-lm) | 2017
-[FRATERNAL DROPOUT](https://arxiv.org/pdf/1711.00066.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1</li></ul> |  NOT AVAILABLE YET | 2017
+[FRATERNAL DROPOUT](https://arxiv.org/pdf/1711.00066.pdf) | <ul><li> PTB </li><li> WikiText-2 </li></ul> | <ul><li> Preplexity: 56.8 </li><li> Perplexity: 64.1</li></ul> |  NOT YET AVAILABLE | 2017
 [Factorization tricks for LSTM networks](https://arxiv.org/pdf/1703.10722.pdf) |One Billion Word Benchmark |  Preplexity:  23.36 | [Tensorflow](https://github.com/okuchaiev/f-lm) | 2017
 
 
@@ -42,18 +42,18 @@ Research Paper | Datasets  | Metric | Source Code | Year
 #### 3. Text Classification
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | Yelp | Accuracy: 67.36 | NOT AVAILABLE YET | 2017
+[Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | Yelp | Accuracy: 67.36 | NOT YET AVAILABLE | 2017
 
 
 #### 4. Natural Language Inference
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[DiSAN: Directional Self-Attention Network <br /> for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT AVAILABLE YET | 2017
+[DiSAN: Directional Self-Attention Network <br /> for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT YET AVAILABLE | 2017
 
 #### 5. Question Answering
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT AVAILABLE YET | 2017
+[Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT YET AVAILABLE | 2017
 
 
 
@@ -61,7 +61,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[Named Entity Recognition in Twitter using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 |[NLTK](https://github.com/aritter/twitter_nlp) | 2017
+[Named Entity Recognition in Twitter using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 | NOT YET AVAILABLE | 2017
 
 
 
