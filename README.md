@@ -41,7 +41,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 #### 2. Text Classification
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
-[Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | <ul><li>Yelp.</li></ul> | <ul><li> Accuracy: 67.36 </li></ul> | NOT AVAILABLE YET | 2017
+[Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | Yelp | Accuracy: 67.36 | NOT AVAILABLE YET | 2017
 
 
 ## Unsupervised Learning
