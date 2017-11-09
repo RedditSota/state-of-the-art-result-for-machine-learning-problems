@@ -153,12 +153,11 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
-      <td><a href='https://arxiv.org/pdf/1507.00677.pdf'> DISTRIBUTIONAL SMOOTHING
-WITH VIRTUAL ADVERSARIAL TRAINING </a></td>
-      <td align="left">Unsupervised CIFAR 10</td>
-      <td align="left">Inception score: 8.80 </td>
-      <td align="left"> <a href='https://github.com/tkarras/progressive_growing_of_gans'>Theano</a></td>
-      <td align="left">2017</td>    
+      <td><a href='https://arxiv.org/pdf/1507.00677.pdf'> DISTRIBUTIONAL SMOOTHINGWITH VIRTUAL ADVERSARIAL TRAINING </a></td>
+      <td align="left"> <ul><li> SVHN </li><li> NORB </li></ul></td>
+      <td align="left"> <ul><li> Test error: 24.63 </li><li> Test error: 9.88 </li></ul> </td>
+      <td align="left"> <a href='https://github.com/takerum/vat'>Theano</a></td>
+      <td align="left">2016</td>    
     </tr>
   </tbody>
 </table>
@@ -177,11 +176,10 @@ WITH VIRTUAL ADVERSARIAL TRAINING </a></td>
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
-      <td><a href='http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf'> PROGRESSIVE GROWING OF GANS FOR IMPROVED
-QUALITY, STABILITY, AND VARIATION </a></td>
-      <td align="left"> <ul><li> SVHN </li><li> NORB </li></ul></td>
-      <td align="left"> <ul><li> Test error: 24.63 </li><li> Test error: 9.88 </li></ul> </td>
-      <td align="left"> <a href='https://github.com/takerum/vat'>Theano</a></td>
+      <td><a href='http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf'> PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION </a></td>
+       <td align="left">Unsupervised CIFAR 10</td>
+      <td align="left">Inception score: 8.80 </td>
+      <td align="left"> <a href='https://github.com/tkarras/progressive_growing_of_gans'>Theano</a></td>
       <td align="left">2017</td>    
     </tr>
   </tbody>
