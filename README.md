@@ -157,7 +157,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
-      <td><a href='https://arxiv.org/abs/1705.09207'> PROGRESSIVE GROWING OF GANS FOR IMPROVED
+      <td><a href='http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf'> PROGRESSIVE GROWING OF GANS FOR IMPROVED
 QUALITY, STABILITY, AND VARIATION </a></td>
       <td align="left">Unsupervised CIFAR 10</td>
       <td align="left">Inception score: 8.80 </td>
