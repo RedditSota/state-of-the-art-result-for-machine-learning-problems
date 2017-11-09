@@ -80,6 +80,32 @@ Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
 [Attentive Convolution](https://arxiv.org/pdf/1710.00519.pdf) | Yelp | Accuracy: 67.36 | NOT YET AVAILABLE | 2017
 
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+
+    <tr>
+      <td><a href='https://arxiv.org/abs/1705.09207'> Learning Structured Text Representations </a></td>
+      <td align="left">Yelp</td>
+      <td align="left">Accuracy: 68.6</td>
+      <td align="left"> NOT YET AVAILABLE</td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1710.00519.pdf'>Attentive Convolution</a></td>
+      <td align="left">Yelp</td>
+      <td align="left">Accuracy: 67.36</td>
+      <td align="left"> NOT YET AVAILABLE</td>
+      <td align="left">2017</td>   
+    </tr>
+  </tbody>
+</table>
 
 #### 4. Natural Language Inference
 Research Paper | Datasets  | Metric | Source Code | Year
