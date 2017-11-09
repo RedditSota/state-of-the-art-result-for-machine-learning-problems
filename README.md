@@ -168,7 +168,7 @@ Semi-supervised Learning </a></td>
       <td align="left"> <ul><li> MNIST </li></ul></td>
       <td align="left"> <ul><li> Test error: 1.27 </li></ul> </td>
       <td align="left"> NOT FOUND </td>
-      <td align="left">2016</td>    
+      <td align="left">2017</td>    
     </tr>
       
   </tbody>
