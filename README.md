@@ -6,7 +6,7 @@ This repository provides state-of-the-art (SoTA) results for all machine learnin
 
 You can also submit this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeMnkZ24YqiNkQEER_ihckenijBP7GpQpv8ZrkBnY7ythCItw/viewform?usp=sf_link) if you are new to Github.
 
-This is an attempt to make  one stop for all types of machine learning problems state of the art result.
+This is an attempt to make  one stop for all types of machine learning problems state of the art result. I can not do this alone. I need help from everyone. Please submit the Google form/raise an issue if you find SOTA result for a dataset. 
 
 This summary is categorized into:
 
