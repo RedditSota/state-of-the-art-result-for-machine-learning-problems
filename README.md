@@ -49,6 +49,10 @@ Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
 [DiSAN: Directional Self-Attention Network <br /> for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT AVAILABLE YET | 2017
 
+#### 5. Question Answering
+Research Paper | Datasets  | Metric | Source Code | Year
+------------ | ------------- | ------------ | ------------- | -------------
+[Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT AVAILABLE YET | 2017
 
 
 ## Unsupervised Learning
