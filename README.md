@@ -161,6 +161,16 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left"> <a href='https://github.com/takerum/vat'>Theano</a></td>
       <td align="left">2016</td>    
     </tr>
+     <tr>
+      <td><a href='https://arxiv.org/pdf/1704.03976.pdf'> Virtual Adversarial Training:
+a Regularization Method for Supervised and
+Semi-supervised Learning </a></td>
+      <td align="left"> <ul><li> MNIST </li></ul></td>
+      <td align="left"> <ul><li> Test error: 1.27 </li></ul> </td>
+      <td align="left"> NOT FOUND </td>
+      <td align="left">2016</td>    
+    </tr>
+      
   </tbody>
 </table>
 
