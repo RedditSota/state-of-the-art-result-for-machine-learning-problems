@@ -17,9 +17,6 @@ This summary is categorized into:
     - Computer Vision
     - NLP
 - Transfer Learning
-    - Speech
-    - Computer Vision
-    - NLP
 - Reinforcement Learning
 
 ## Supervised Learning
