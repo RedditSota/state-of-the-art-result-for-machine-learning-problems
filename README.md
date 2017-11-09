@@ -59,7 +59,7 @@ This summary is categorized into:
       <td align="left">2017</td>   
     </tr>
         <tr>
-      <td><a href='https://arxiv.org/pdf/1711.00066.pdf'>Factorization tricks for LSTM networks </a></td>
+      <td><a href='https://arxiv.org/pdf/1703.10722.pdf'>Factorization tricks for LSTM networks </a></td>
       <td align="left">One Billion Word Benchmark</td>
       <td align="left"> Preplexity:  23.36</td>
       <td align="left"><a href='https://github.com/okuchaiev/f-lm'>Tensorflow </a></td>
