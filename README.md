@@ -1,7 +1,8 @@
 # State-of-the-art result for all Machine Learning Problems
 
 ### LAST UPDATE: 10th November 2017
-### <font size="3" color="red">NEWS:</font> I am looking for a Collaborators esp who does research in Computer Vision and Reinforcement learning. I am a NLP scientist, so I can keep track of NLP. Email me: redditsota@gmail.com
+
+### NEWS: I am looking for a Collaborators esp who does research in Computer Vision and Reinforcement learning. I am a NLP scientist, so I can keep track of NLP. Email me: redditsota@gmail.com
 
 This repository provides state-of-the-art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
 
