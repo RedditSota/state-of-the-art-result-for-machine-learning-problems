@@ -42,28 +42,28 @@ This summary is categorized into:
     <tr>
       <td><a href='https://arxiv.org/pdf/1709.07432.pdf'>DYNAMIC EVALUATION OF NEURAL SEQUENCE MODELS </a></td>
       <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
-      <td align="left"><ul><li> Preplexity: 51.1 </li><li> Preplexity: 44.3 </li></ul></td>
+      <td align="left"><ul><li> Perplexity: 51.1 </li><li> Perplexity: 44.3 </li></ul></td>
       <td align="left"><a href='https://github.com/benkrause/dynamic-evaluation'>Pytorch </a></td>
       <td align="left">2017</td>   
     </tr>
     <tr>
       <td><a href='https://arxiv.org/pdf/1708.02182.pdf'>Averaged Stochastic Gradient  Descent <br/> with Weight Dropped LSTM or QRNN </a></td>
       <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
-      <td align="left"><ul><li> Preplexity: 52.8 </li><li> Preplexity: 52.0 </li></ul></td>
+      <td align="left"><ul><li> Perplexity: 52.8 </li><li> Perplexity: 52.0 </li></ul></td>
       <td align="left"><a href='https://github.com/salesforce/awd-lstm-lm'>Pytorch </a></td>
       <td align="left">2017</td>   
     </tr>
     <tr>
       <td><a href='https://arxiv.org/pdf/1711.00066.pdf'>FRATERNAL DROPOUT </a></td>
       <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
-      <td align="left"><ul><li> Preplexity: 56.8 </li><li> Preplexity: 64.1 </li></ul></td>
+      <td align="left"><ul><li> Perplexity: 56.8 </li><li> Perplexity: 64.1 </li></ul></td>
       <td align="left"> <a href='https://github.com/kondiz/fraternal-dropout'> Pytorch </a>  </td>
       <td align="left">2017</td>   
     </tr>
         <tr>
       <td><a href='https://arxiv.org/pdf/1703.10722.pdf'>Factorization tricks for LSTM networks </a></td>
       <td align="left">One Billion Word Benchmark</td>
-      <td align="left"> Preplexity:  23.36</td>
+      <td align="left"> Perplexity:  23.36</td>
       <td align="left"><a href='https://github.com/okuchaiev/f-lm'>Tensorflow </a></td>
       <td align="left">2017</td>   
     </tr>
