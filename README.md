@@ -74,10 +74,33 @@ This summary is categorized into:
 
 
 #### 2. Machine Translation
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762) | <ul><li> WMT 2014 English-to-French </li><li> WMT 2014 English-to-German </li></ul> | <ul><li> BLEU: 41.0 </li><li> BLEU: 28.4</li></ul> |  <ul><li> [PyTorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) </li><li> [Tensorflow](https://github.com/tensorflow/tensor2tensor) </li></ul> | 2017
 
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1706.03762'>Attention Is All You Need</a></td>
+      <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
+      <td align="left"> <ul><li>  BLEU: 41.0 </li><li>   BLEU: 28.4 </li></ul> </td>
+      <td align="left"> <ul><li><a href='https://github.com/jadore801120/attention-is-all-you-need-pytorch'>PyTorch</a> </li><li> <a href='https://github.com/tensorflow/tensor2tensor'>Tensorflow</a></li></ul></td>
+      <td align="left">2017</td>    
+    </tr>
+     <tr>
+      <td><a href='https://einstein.ai/static/images/pages/research/non-autoregressive-neural-mt.pdf'>NON-AUTOREGRESSIVE
+NEURAL MACHINE TRANSLATION</a></td>
+      <td align="left"> <ul><li> WMT16 Ro→En </li></ul></td>
+      <td align="left"> <ul><li> BLEU: 31.44 </li></ul> </td>
+      <td align="left">NOT YET RELEASED</td>
+      <td align="left">2017</td>    
+    </tr>         
+  </tbody>
+</table>  
 
 #### 3. Text Classification
 
