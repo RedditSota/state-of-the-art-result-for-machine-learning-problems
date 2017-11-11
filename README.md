@@ -205,11 +205,11 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left">2011</td>    
     </tr>
            <tr>
-      <td><a href='https://arxiv.org/pdf/1611.05431.pdf'>Aggregated Residual Transformations for Deep Neural Networks </a></td>
+      <td><a href='https://openreview.net/pdf?id=S1NHaMW0b'>ShakeDrop regularization </a></td>
       <td align="left"> <ul><li>  CIFAR-10  </li> <li> CIFAR-100</li></ul></td>
       <td align="left"> <ul><li> Test Error: 2.31% </li> <li> Test Error: 12.19% </li></ul> </td>
-      <td align="left"><ul><li>  <a href='https://github.com/facebookresearch/ResNeXt'>PyTorch</a> </li></ul> </td>
-      <td align="left">2016</td>    
+      <td align="left"><ul><li>  <a href=''>NOT FOUND</a> </li></ul> </td>
+      <td align="left">2017</td>    
     </tr>
        <tr>
       <td><a href='https://arxiv.org/pdf/1611.05431.pdf'>Aggregated Residual Transformations for Deep Neural Networks </a></td>
