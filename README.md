@@ -100,7 +100,7 @@ NEURAL MACHINE TRANSLATION</a></td>
       <td align="left"> <ul><li> BLEU: 31.44 </li></ul> </td>
       <td align="left">NOT YET RELEASED</td>
       <td align="left">2017</td>    
-    </tr>         
+      </tr>
   </tbody>
 </table>  
 
@@ -245,7 +245,28 @@ Semi-supervised Learning </a></td>
     </tr>
   </tbody>
 </table>
+### NLP
+#### Machine Translation
 
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+      <td><a href='https://arxiv.org/pdf/1711.00043.pdf'>UNSUPERVISED MACHINE TRANSLATION
+USING MONOLINGUAL CORPORA ONLY</a></td>
+      <td align="left"> <ul><li> WMT16 (en-fr fr-en de-en en-de) </li><li> Multi30k-Task1(en-fr fr-en de-en en-de) </li></ul></td>
+      <td align="left"> <ul><li> BLEU:(32.76 32.07 26.26 22.74) </li> <li> BLEU:(15.05 14.31 13.33 9.64) </li></ul> </td>
+      <td align="left">NOT YET RELEASED</td>
+      <td align="left">2017</td>    
+    </tr>
+      
+
+  </tbody>
+</table>  
 ## Transfer Learning
 
 
