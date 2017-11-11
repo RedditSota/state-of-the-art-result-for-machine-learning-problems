@@ -159,10 +159,6 @@ Leader board:
 </table>
 
 
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[DiSAN: Directional Self-Attention Network <br /> for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT YET AVAILABLE | 2017
-
 #### 5. Question Answering
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
