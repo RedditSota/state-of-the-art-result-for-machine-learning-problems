@@ -22,7 +22,7 @@ This summary is categorized into:
 - [Unsupervised Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#unsupervised-learning)
     - Speech
     - Computer Vision
-    - NLP
+    - [NLP](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems/blob/master/README.md#nlp-1)
 - [Transfer Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#transfer-learning)
 - [Reinforcement Learning](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems#reinforcement-learning)
 
