@@ -181,13 +181,52 @@ Research Paper | Datasets  | Metric | Source Code | Year
 
 #### 1. Classification
 
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) | MNIST  | Test Error: 0.25±0.005 | <ul><li> [PyTorch](https://github.com/gram-ai/capsule-networks) </li><li> [Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) </li><li> [Keras](https://github.com/XifengGuo/CapsNet-Keras) </li><li>[Chainer](https://github.com/soskek/dynamic_routing_between_capsules) </li></ul>  | 2017
-[High-Performance Neural Networks for Visual Object Classification](https://arxiv.org/pdf/1102.0183.pdf) | NORB  | Test Error: 2.53 ± 0.40| NOT FOUND | 2011
-[Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf) | CIFAR-10 | Test Error: 3.58% | <ul><li> [PyTorch](https://github.com/facebookresearch/ResNeXt) </li></ul>  | 2016
-[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) | MultiMNIST  | Test Error: 5% | <ul><li> [PyTorch](https://github.com/gram-ai/capsule-networks) </li><li> [Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) </li><li> [Keras](https://github.com/XifengGuo/CapsNet-Keras) </li><li>[Chainer](https://github.com/soskek/dynamic_routing_between_capsules) </li></ul>  | 2017
-[Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf) | ImageNet-1k | Top-1 Error: 20.4% | <ul><li> [PyTorch](https://github.com/facebookresearch/ResNeXt) </li></ul>  | 2016
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+        <tr>
+      <td><a href='https://arxiv.org/pdf/1710.09829.pdf'> Dynamic Routing Between Capsules </a></td>
+      <td align="left"> <ul><li> MNIST </li></ul></td>
+      <td align="left"> <ul><li> Test Error: 0.25±0.005 </li></ul> </td>
+      <td align="left">  <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+         <tr>
+      <td><a href='https://arxiv.org/pdf/1102.0183.pdf'> High-Performance Neural Networks for Visual Object Classification </a></td>
+      <td align="left"> <ul><li> NORB </li></ul></td>
+      <td align="left"> <ul><li> Test Error: 2.53 ± 0.40 </li></ul> </td>
+      <td align="left"> NOT FOUND </td>
+      <td align="left">2011</td>    
+    </tr>
+       <tr>
+      <td><a href='https://arxiv.org/pdf/1611.05431.pdf'>Aggregated Residual Transformations for Deep Neural Networks </a></td>
+      <td align="left"> <ul><li>  CIFAR-10  </li></ul></td>
+      <td align="left"> <ul><li> Test Error: 3.58% </li></ul> </td>
+      <td align="left"><ul><li>  <a href='https://github.com/facebookresearch/ResNeXt'>PyTorch</a> </li></ul> </td>
+      <td align="left">2016</td>    
+    </tr>
+           <tr>
+      <td><a href='https://arxiv.org/pdf/1710.09829.pdf'> Dynamic Routing Between Capsules </a></td>
+      <td align="left"> <ul><li> MultiMNIST </li></ul></td>
+      <td align="left"> <ul><li> Test Error: 5% </li></ul> </td>
+      <td align="left">  <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+           <tr>
+      <td><a href='https://arxiv.org/pdf/1611.05431.pdf'>Aggregated Residual Transformations for Deep Neural Networks </a></td>
+      <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
+      <td align="left"> <ul><li> Top-1 Error: 20.4% </li></ul> </td>
+      <td align="left"><ul> <li>  <a href='https://github.com/facebookresearch/ResNeXt'>PyTorch</a> </li></ul> </td>
+      <td align="left">2016</td>    
+    </tr>
+  </tbody>
+</table>
 
 ### Speech
 #### 1. ASR
