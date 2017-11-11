@@ -98,7 +98,7 @@ This summary is categorized into:
 NEURAL MACHINE TRANSLATION</a></td>
       <td align="left"> <ul><li> WMT16 Ro→En </li></ul></td>
       <td align="left"> <ul><li> BLEU: 31.44 </li></ul> </td>
-      <td align="left"><a href=''>NOT FOUND</a></td>
+      <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>    
       </tr>
   </tbody>
@@ -119,14 +119,14 @@ NEURAL MACHINE TRANSLATION</a></td>
       <td><a href='https://arxiv.org/abs/1705.09207'> Learning Structured Text Representations </a></td>
       <td align="left">Yelp</td>
       <td align="left">Accuracy: 68.6</td>
-      <td align="left"> <a href=''>NOT FOUND</a></td>
+      <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>    
     </tr>
     <tr>
       <td><a href='https://arxiv.org/pdf/1710.00519.pdf'>Attentive Convolution</a></td>
       <td align="left">Yelp</td>
       <td align="left">Accuracy: 67.36</td>
-      <td align="left"> <a href=''>NOT FOUND</a></td>
+      <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>   
     </tr>
   </tbody>
@@ -201,7 +201,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/pdf/1102.0183.pdf'> High-Performance Neural Networks for Visual Object Classification </a></td>
       <td align="left"> <ul><li> NORB </li></ul></td>
       <td align="left"> <ul><li> Test Error: 2.53 ± 0.40 </li></ul> </td>
-      <td align="left"> <a href=''>NOT FOUND</a> </td>
+      <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li> </td>
       <td align="left">2011</td>    
     </tr>
            <tr>
@@ -266,7 +266,7 @@ a Regularization Method for Supervised and
 Semi-supervised Learning </a></td>
       <td align="left"> <ul><li> MNIST </li></ul></td>
       <td align="left"> <ul><li> Test error: 1.27 </li></ul> </td>
-      <td align="left"> <a href=''>NOT FOUND</a> </td>
+      <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li> </td>
       <td align="left">2017</td>    
     </tr>
       
@@ -314,7 +314,7 @@ Semi-supervised Learning </a></td>
 USING MONOLINGUAL CORPORA ONLY</a></td>
       <td align="left"> <ul><li> WMT16 (en-fr fr-en de-en en-de) </li><li> Multi30k-Task1(en-fr fr-en de-en en-de) </li></ul></td>
       <td align="left"> <ul><li> BLEU:(32.76 32.07 26.26 22.74) </li> <li> BLEU:(15.05 14.31 13.33 9.64) </li></ul> </td>
-      <td align="left"><a href=''>NOT FOUND</a></td>
+      <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>    
     </tr>
       
