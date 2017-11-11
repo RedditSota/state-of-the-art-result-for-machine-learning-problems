@@ -160,6 +160,10 @@ Leader board:
 
 
 #### 5. Question Answering
+Leader Board
+
+[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
+
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
 [Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT YET AVAILABLE | 2017
