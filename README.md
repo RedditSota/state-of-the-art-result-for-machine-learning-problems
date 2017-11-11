@@ -132,7 +132,33 @@ NEURAL MACHINE TRANSLATION</a></td>
   </tbody>
 </table>
 
-#### 4. Natural Language Inference
+#### 4. Natural Language Inference 
+Leader board: 
+
+[Stanford Natural Language Inference (SNLI)](https://nlp.stanford.edu/projects/snli/)
+
+[MultiNLI](https://www.kaggle.com/c/multinli-matched-open-evaluation/leaderboard)
+
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1709.04348.pdf'> NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE </a></td>
+      <td align="left">Stanford Natural Language Inference (SNLI)</td>
+      <td align="left">Accuracy: 88.9</td>
+      <td align="left"><a href='https://github.com/YichenGong/Densely-Interactive-Inference-Network'>Tensorflow</a> </td>
+      <td align="left">2017</td>    
+  </tr>
+  </tbody>
+</table>
+
+
 Research Paper | Datasets  | Metric | Source Code | Year
 ------------ | ------------- | ------------ | ------------- | -------------
 [DiSAN: Directional Self-Attention Network <br /> for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) | Stanford Natural Language Inference (SNLI) | Accuracy: 51.72 | NOT YET AVAILABLE | 2017
