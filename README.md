@@ -245,8 +245,11 @@ Semi-supervised Learning </a></td>
     </tr>
   </tbody>
 </table>
+
 ### NLP
+
 #### Machine Translation
+
 
 <table>
   <tbody>
@@ -256,6 +259,7 @@ Semi-supervised Learning </a></td>
       <th align="center" width="20%">Metric</th>
       <th align="center" width="20%">Source Code</th>
       <th align="center" width="10%">Year</th>
+       <tr> 
       <td><a href='https://arxiv.org/pdf/1711.00043.pdf'>UNSUPERVISED MACHINE TRANSLATION
 USING MONOLINGUAL CORPORA ONLY</a></td>
       <td align="left"> <ul><li> WMT16 (en-fr fr-en de-en en-de) </li><li> Multi30k-Task1(en-fr fr-en de-en en-de) </li></ul></td>
