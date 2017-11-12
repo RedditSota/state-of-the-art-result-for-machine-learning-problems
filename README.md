@@ -1,6 +1,6 @@
 # State-of-the-art result for all Machine Learning Problems
 
-### LAST UPDATE: 11th November 2017
+### LAST UPDATE: 12th November 2017
 
 ### NEWS: I am looking for a Collaborator esp who does research in NLP, Computer Vision and Reinforcement learning. If you are not a researcher, but you are willing, contact me. Email me: redditsota@gmail.com
 
@@ -87,6 +87,14 @@ This summary is categorized into:
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
+      <td><a href='https://arxiv.org/pdf/1711.02132.pdf'>WEIGHTED TRANSFORMER NETWORK FOR
+MACHINE TRANSLATION</a></td>
+      <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
+      <td align="left"> <ul><li>  BLEU: 41.4 </li><li>   BLEU: 28.9 </li></ul> </td>
+      <td align="left"> <ul><li><a href=''>NOT FOUND</a></li></ul></td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
       <td><a href='https://arxiv.org/abs/1706.03762'>Attention Is All You Need</a></td>
       <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
       <td align="left"> <ul><li>  BLEU: 41.0 </li><li>   BLEU: 28.4 </li></ul> </td>
@@ -101,6 +109,13 @@ NEURAL MACHINE TRANSLATION</a></td>
       <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>    
       </tr>
+          <tr>
+      <td><a href='https://arxiv.org/abs/1703.04887'> Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets</a></td>
+      <td align="left"> <ul><li>NIST02    </li><li>NIST03 </li><li>NIST04 </li><li>NIST05 </li></ul></td>
+      <td align="left"><li>38.74  </li><li>36.01  </li><li> 37.54 </li><li>33.76 </li></ul </td>
+      <td align="left"> <ul><li><a href='https://github.com/ngohoanhkhoa/GAN-NMT'>NMTPY</a> </li></ul></td>
+      <td align="left">2017</td>    
+    </tr>
   </tbody>
 </table>  
 
@@ -223,6 +238,13 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left"> <ul><li> MultiMNIST </li></ul></td>
       <td align="left"> <ul><li> Test Error: 5% </li></ul> </td>
       <td align="left"> <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1709.01507.pdf'>Squeeze-and-Excitation Networks </a></td>
+      <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
+      <td align="left"> <ul><li> Top-1 Error 18.68 </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/hujie-frank/SENet'>CAFFE</a> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
     <tr>
