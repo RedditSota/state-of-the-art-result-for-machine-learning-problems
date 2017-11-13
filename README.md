@@ -192,6 +192,14 @@ Research Paper | Datasets  | Metric | Source Code | Year
 [Named Entity Recognition in Twitter <br /> using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 | NOT YET AVAILABLE | 2017
 
 
+#### 7. Abstractive Summarization
+
+Research Paper | Datasets  | Metric | Source Code | Year  
+------------ | ------------- | ------------ | ------------- | -------------  
+[Cutting-off redundant repeating generations </br> for neural abstractive summarization](https://aclanthology.info/pdf/E/E17/E17-2047.pdf) | <ul><li>DUC-2004</li><li>Gigaword</li></ul> | <ul><li>DUC-2004</li><ul><li> ROUGE-1: **32.28** </li><li> ROUGE-2: 10.54 </li><li>ROUGE-L: **27.80** </li></ul><li>Gigaword</li><ul><li> ROUGE-1: **36.30** </li><li> ROUGE-2: 17.31 </li><li>ROUGE-L: **33.88** </li></ul></ul> | NOT YET AVAILABLE | 2017
+[Convolutional Sequence to Sequence](https://arxiv.org/pdf/1705.03122.pdf) | <ul><li>DUC-2004</li><li>Gigaword</li></ul> | <ul><li>DUC-2004</li><ul><li> ROUGE-1: 33.44 </li><li> ROUGE-2: **10.84** </li><li>ROUGE-L: 26.90 </li></ul><li>Gigaword</li><ul><li> ROUGE-1: 35.88 </li><li> ROUGE-2: 27.48 </li><li>ROUGE-L: 33.29 </li></ul></ul> | [PyTorch](https://github.com/facebookresearch/fairseq-py) | 2017
+
+
 ### Computer Vision
 
 #### 1. Classification
