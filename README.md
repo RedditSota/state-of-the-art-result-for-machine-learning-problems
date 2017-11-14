@@ -292,6 +292,26 @@ Research Paper | Datasets  | Metric | Source Code | Year
   </tbody>
 </table>
 
+#### 3. Visual Question Answering
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1708.02711'>Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge</a></td>
+      <td align="left"> <ul><li> VQA  </li></ul></td>
+      <td align="left"> <ul><li> Overall score: 69 </li></ul> </td>
+      <td align="left"> <ul><li>  Not Found </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
+
 ### Speech
 #### 1. ASR
 Research Paper | Datasets  | Metric | Source Code | Year
@@ -416,6 +436,24 @@ USING MONOLINGUAL CORPORA ONLY</a></td>
 
 
 ## Reinforcement Learning
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+       <tr> 
+      <td><a href='http://www.gwern.net/docs/rl/2017-silver.pdf'>Mastering the game of Go without human knowledge</a></td>
+      <td align="left"> the game of Go </td>
+      <td align="left"> ElO Rating: 5185</td>
+      <td align="left"><ul><li><a href=https://github.com/gcp/leela-zero>C++</a></ul></li></td>
+      <td align="left">2017</td>    
+    </tr>
+      
 
+  </tbody>
+</table>  
 
 Email: redditsota@gmail.com 
