@@ -385,6 +385,24 @@ USING MONOLINGUAL CORPORA ONLY</a></td>
 
 
 ## Reinforcement Learning
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+       <tr> 
+      <td><a href='http://www.gwern.net/docs/rl/2017-silver.pdf'>Mastering the game of Go without human knowledge</a></td>
+      <td align="left"> the game of Go </td>
+      <td align="left"> ElO Rating: 5185</td>
+      <td align="left"><ul><li><a href=https://github.com/gcp/leela-zero>C++</a></ul></li></td>
+      <td align="left">2017</td>    
+    </tr>
+      
 
+  </tbody>
+</table>  
 
 Email: redditsota@gmail.com 
