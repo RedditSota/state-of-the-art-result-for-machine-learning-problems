@@ -41,6 +41,18 @@ This summary is categorized into:
       <th align="center" width="20%">Source Code</th>
       <th align="center" width="10%">Year</th>
     </tr>
+    
+    
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1711.03953.pdf'>BREAKING THE SOFTMAX BOTTLENECK:
+A HIGH-RANK RNN LANGUAGE MODEL </a></td>
+      <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
+      <td align="left"><ul><li> Perplexity: 47.69
+ </li><li> Perplexity: 40.68 </li></ul></td>
+      <td align="left"><a href='https://github.com/zihangdai/mos'>Pytorch </a></td>
+      <td align="left">2017</td>   
+    </tr>
+
     <tr>
       <td><a href='https://arxiv.org/pdf/1709.07432.pdf'>DYNAMIC EVALUATION OF NEURAL SEQUENCE MODELS </a></td>
       <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
