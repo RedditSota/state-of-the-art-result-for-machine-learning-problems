@@ -392,6 +392,29 @@ USING MONOLINGUAL CORPORA ONLY</a></td>
 </table>  
 
 ## Transfer Learning
+ImageNet (top-5 accuracy) 86% 
+WMT EN → DE (BLEU) 21.2 
+WMT EN → FR (BLEU) 30.5 
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+       <tr> 
+      <td><a href='https://arxiv.org/pdf/1706.05137.pdf'>One Model To Learn Them All</a></td>
+      <td align="left"> <ul><li> WMT EN → DE </li><li> WMT EN → FR (BLEU) </li><li> ImageNet (top-5 accuracy) </li></ul></td>
+      <td align="left"> <ul><li> BLEU: 21.2 </li> <li> BLEU:30.5  </li><li> 86% </li></ul> </td>
+      <td align="left"><ul><li><a href='https://github.com/tensorflow/tensor2tensor'>Tensorflow</a></ul></li></td>
+      <td align="left">2017</td>    
+    </tr>
+      
+
+  </tbody>
+</table>  
+
 
 
 ## Reinforcement Learning
