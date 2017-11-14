@@ -392,9 +392,7 @@ USING MONOLINGUAL CORPORA ONLY</a></td>
 </table>  
 
 ## Transfer Learning
-ImageNet (top-5 accuracy) 86% 
-WMT EN → DE (BLEU) 21.2 
-WMT EN → FR (BLEU) 30.5 
+
 <table>
   <tbody>
     <tr>
