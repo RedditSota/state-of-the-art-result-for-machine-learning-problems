@@ -206,11 +206,24 @@ Leader Board
 
 
 #### 6. Named entity recognition
-
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[Named Entity Recognition in Twitter <br /> using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 | NOT YET AVAILABLE | 2017
-
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1710.11027.pdf'>Named Entity Recognition in Twitter using Images and Text </a></td>
+      <td align="left">Ritter</td>
+      <td align="left"><ul><li> F-measure: 0.59 </li></ul></td>
+      <td align="left"><a href=''>NOT FOUND</a> </td>
+      <td align="left">2017</td>    
+  </tr>
+  </tbody>
+</table>
 
 #### 7. Abstractive Summarization
 
