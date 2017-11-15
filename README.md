@@ -237,7 +237,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 
 Research Paper | Datasets  | Metric | Source Code | Year  
 ------------ | ------------- | ------------ | ------------- | -------------  
-[Globally Normalized Transition-Based Neural Networks](https://arxiv.org/pdf/1603.06042.pdf) | <ul><li>Final CoNLL ’09 dependency parsing </li></ul> | <ul><li> 94.08% UAS and 92.15%
+[Globally Normalized Transition-Based Neural Networks](https://arxiv.org/pdf/1603.06042.pdf) | <ul><li>Final CoNLL ’09 dependency parsing </li></ul> | <ul><li> 94.08% UAS accurancy</li> <li>92.15%
 LAS accurancy</li></ul> | <ul><li>[SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) </li></ul>| <ul><li>2017</li></ul>
 
 
