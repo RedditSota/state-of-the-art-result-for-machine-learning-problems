@@ -233,6 +233,14 @@ Research Paper | Datasets  | Metric | Source Code | Year
 [Convolutional Sequence to Sequence](https://arxiv.org/pdf/1705.03122.pdf) | <ul><li>DUC-2004</li><li>Gigaword</li></ul> | <ul><li>DUC-2004</li><ul><li> ROUGE-1: 33.44 </li><li> ROUGE-2: **10.84** </li><li>ROUGE-L: 26.90 </li></ul><li>Gigaword</li><ul><li> ROUGE-1: 35.88 </li><li> ROUGE-2: 27.48 </li><li>ROUGE-L: 33.29 </li></ul></ul> | [PyTorch](https://github.com/facebookresearch/fairseq-py) | 2017
 
 
+#### 8. Dependency Parsing
+
+Research Paper | Datasets  | Metric | Source Code | Year  
+------------ | ------------- | ------------ | ------------- | -------------  
+[Globally Normalized Transition-Based Neural Networks](https://arxiv.org/pdf/1603.06042.pdf) | <ul><li>Final CoNLL ’09 dependency parsing </li></ul> | <ul><li> 94.08% UAS and 92.15%
+LAS accurancy</li></ul> | [SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) | 2017
+
+
 ### Computer Vision
 
 #### 1. Classification
