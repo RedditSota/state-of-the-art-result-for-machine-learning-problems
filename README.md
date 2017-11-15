@@ -185,11 +185,24 @@ Leader board:
 Leader Board
 
 [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
-
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT YET AVAILABLE | 2017
-
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://rajpurkar.github.io/SQuAD-explorer/'> Interactive AoA Reader+ (ensemble) </a></td>
+      <td align="left">The Stanford Question Answering Dataset</td>
+      <td align="left"><ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul></td>
+      <td align="left"><a href=''>NOT FOUND</a> </td>
+      <td align="left">2017</td>    
+  </tr>
+  </tbody>
+</table>
 
 
 #### 6. Named entity recognition
