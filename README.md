@@ -327,7 +327,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/abs/1708.02711'>Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge</a></td>
       <td align="left"> <ul><li> VQA  </li></ul></td>
       <td align="left"> <ul><li> Overall score: 69 </li></ul> </td>
-      <td align="left"> <ul><li>  Not Found </li></ul> </td>
+      <td align="left"> <ul><li>   <a href=''>NOT FOUND</a> </li></ul> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
   </tbody>
@@ -335,9 +335,25 @@ Research Paper | Datasets  | Metric | Source Code | Year
 
 ### Speech
 #### 1. ASR
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[The Microsoft 2017 Conversational Speech Recognition System](https://arxiv.org/pdf/1708.06073.pdf) | Switchboard Hub5'00  | WER: 5.1 | NOT FOUND | 2017
+
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1708.06073.pdf'>The Microsoft 2017 Conversational Speech Recognition System</a></td>
+      <td align="left"> <ul><li> Switchboard Hub5'00  </li></ul></td>
+      <td align="left"> <ul><li> WER: 5.1  </li></ul> </td>
+      <td align="left"> <ul><li>  <a href=''>NOT FOUND</a></li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
 
 
 ## Semi-supervised Learning
