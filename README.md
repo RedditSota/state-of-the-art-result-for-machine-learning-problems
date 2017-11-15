@@ -259,14 +259,14 @@ Research Paper | Datasets  | Metric | Source Code | Year
     <tr>
       <td><a href='https://arxiv.org/pdf/1707.07012.pdf'>Learning Transferable Architectures for Scalable Image Recognition</a></td>
       <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
-      <td align="left"> <ul><li> Top-1 Error 17.3 </li></ul> </td>
+      <td align="left"> <ul><li> Top-1 Error:17.3 </li></ul> </td>
       <td align="left"> <ul><li>  <a href='https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnett'>Tensorflow</a> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
      <tr>
       <td><a href='https://arxiv.org/pdf/1709.01507.pdf'>Squeeze-and-Excitation Networks </a></td>
       <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
-      <td align="left"> <ul><li> Top-1 Error 18.68 </li></ul> </td>
+      <td align="left"> <ul><li> Top-1 Error: 18.68 </li></ul> </td>
       <td align="left"> <ul><li>  <a href='https://github.com/hujie-frank/SENet'>CAFFE</a> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
