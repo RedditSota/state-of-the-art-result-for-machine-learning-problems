@@ -387,6 +387,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
 </table>
 
 ### Speech
+[Speech SOTA](https://github.com/syhw/wer_are_we)
 #### 1. ASR
 
 <table>
