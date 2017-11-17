@@ -283,6 +283,16 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left">2017</td>    
     </tr>
     <tr>
+      <td><a href='https://arxiv.org/abs/1708.04896'> Random Erasing Data Augmentation </a></td>
+      <td align="left"> <ul><li> CIFAR-10 </li> <li> CIFAR-100 </li> <li> Fashion-MNIST </li> </ul></td>
+      <td align="left"> <ul><li> Test Error: 3.08% </li>
+          <li> Test Error: 17.73% </li>
+          <li> Test Error: 3.65% </li>
+          </ul> </td>
+      <td align="left"> <a href='https://github.com/zhunzhong07/Random-Erasing'> Pytorch </td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
       <td><a href='https://arxiv.org/pdf/1710.09829.pdf'> Dynamic Routing Between Capsules </a></td>
       <td align="left"> <ul><li> MultiMNIST </li></ul></td>
       <td align="left"> <ul><li> Test Error: 5% </li></ul> </td>
@@ -348,6 +358,29 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left"> <ul><li> VQA  </li></ul></td>
       <td align="left"> <ul><li> Overall score: 69 </li></ul> </td>
       <td align="left"> <ul><li>   <a href=''>NOT FOUND</a> </li></ul> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
+
+#### 4. Person Re-identification
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1708.04896'> Random Erasing Data Augmentation </a></td>
+      <td align="left"> <ul><li> <a href='http://www.liangzheng.org/Project/project_reid.html'> Market-1501 </a> </li> <li> <a href='https://github.com/zhunzhong07/person-re-ranking'> CUHK03-new-protocol </a> </li> <li> <a href='https://github.com/layumi/DukeMTMC-reID_evaluation'> DukeMTMC-reID </a> </li> </ul></td>
+      <td align="left"> <ul><li> Rank-1: 89.13 mAP: 83.93 </li>
+          <li> Rank-1: 84.02 mAP: 78.28 </li>
+          <li> labeled (Rank-1: 63.93 mAP: 65.05) detected (Rank-1: 64.43 mAP: 64.75) </li>
+          </ul> </td>
+      <td align="left"> <a href='https://github.com/zhunzhong07/Random-Erasing'> Pytorch </td>
       <td align="left">2017</td>    
     </tr>
   </tbody>
