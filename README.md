@@ -1,6 +1,6 @@
 # State-of-the-art result for all Machine Learning Problems
 
-### LAST UPDATE: 11th November 2017
+### LAST UPDATE: 15th November 2017
 
 ### NEWS: I am looking for a Collaborator esp who does research in NLP, Computer Vision and Reinforcement learning. If you are not a researcher, but you are willing, contact me. Email me: redditsota@gmail.com
 
@@ -40,6 +40,13 @@ This summary is categorized into:
       <th align="center" width="20%">Metric</th>
       <th align="center" width="20%">Source Code</th>
       <th align="center" width="10%">Year</th>
+    </tr>  
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1711.03953.pdf'>BREAKING THE SOFTMAX BOTTLENECK: A HIGH-RANK RNN LANGUAGE MODEL </a></td>
+      <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
+      <td align="left"><ul><li> Perplexity: 47.69 </li><li> Perplexity: 40.68 </li></ul></td>
+      <td align="left"><a href='https://github.com/zihangdai/mos'>Pytorch </a></td>
+      <td align="left">2017</td>   
     </tr>
     <tr>
       <td><a href='https://arxiv.org/pdf/1709.07432.pdf'>DYNAMIC EVALUATION OF NEURAL SEQUENCE MODELS </a></td>
@@ -87,6 +94,14 @@ This summary is categorized into:
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
+      <td><a href='https://arxiv.org/pdf/1711.02132.pdf'>WEIGHTED TRANSFORMER NETWORK FOR
+MACHINE TRANSLATION</a></td>
+      <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
+      <td align="left"> <ul><li>  BLEU: 41.4 </li><li>   BLEU: 28.9 </li></ul> </td>
+      <td align="left"> <ul><li><a href=''>NOT FOUND</a></li></ul></td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
       <td><a href='https://arxiv.org/abs/1706.03762'>Attention Is All You Need</a></td>
       <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
       <td align="left"> <ul><li>  BLEU: 41.0 </li><li>   BLEU: 28.4 </li></ul> </td>
@@ -101,6 +116,13 @@ NEURAL MACHINE TRANSLATION</a></td>
       <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>    
       </tr>
+          <tr>
+      <td><a href='https://arxiv.org/abs/1703.04887'> Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets</a></td>
+      <td align="left"> <ul><li>NIST02    </li><li>NIST03 </li><li>NIST04 </li><li>NIST05 </li></ul></td>
+      <td align="left"><li>38.74  </li><li>36.01  </li><li> 37.54 </li><li>33.76 </li></ul </td>
+      <td align="left"> <ul><li><a href='https://github.com/ngohoanhkhoa/GAN-NMT'>NMTPY</a> </li></ul></td>
+      <td align="left">2017</td>    
+    </tr>
   </tbody>
 </table>  
 
@@ -163,18 +185,59 @@ Leader board:
 Leader Board
 
 [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
-
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[Interactive AoA Reader+ (ensemble)](https://rajpurkar.github.io/SQuAD-explorer/) | The Stanford Question Answering Dataset | <ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul>  | NOT YET AVAILABLE | 2017
-
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://rajpurkar.github.io/SQuAD-explorer/'> Interactive AoA Reader+ (ensemble) </a></td>
+      <td align="left">The Stanford Question Answering Dataset</td>
+      <td align="left"><ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul></td>
+      <td align="left"><a href=''>NOT FOUND</a> </td>
+      <td align="left">2017</td>    
+  </tr>
+  </tbody>
+</table>
 
 
 #### 6. Named entity recognition
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1710.11027.pdf'>Named Entity Recognition in Twitter using Images and Text </a></td>
+      <td align="left">Ritter</td>
+      <td align="left"><ul><li> F-measure: 0.59 </li></ul></td>
+      <td align="left"><a href=''>NOT FOUND</a> </td>
+      <td align="left">2017</td>    
+  </tr>
+  </tbody>
+</table>
 
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[Named Entity Recognition in Twitter <br /> using Images and Text](https://arxiv.org/pdf/1710.11027.pdf) | Ritter | F-measure: 0.59 | NOT YET AVAILABLE | 2017
+#### 7. Abstractive Summarization
+
+Research Paper | Datasets  | Metric | Source Code | Year  
+------------ | ------------- | ------------ | ------------- | -------------  
+[Cutting-off redundant repeating generations </br> for neural abstractive summarization](https://aclanthology.info/pdf/E/E17/E17-2047.pdf) | <ul><li>DUC-2004</li><li>Gigaword</li></ul> | <ul><li>DUC-2004</li><ul><li> ROUGE-1: **32.28** </li><li> ROUGE-2: 10.54 </li><li>ROUGE-L: **27.80** </li></ul><li>Gigaword</li><ul><li> ROUGE-1: **36.30** </li><li> ROUGE-2: 17.31 </li><li>ROUGE-L: **33.88** </li></ul></ul> | NOT YET AVAILABLE | 2017
+[Convolutional Sequence to Sequence](https://arxiv.org/pdf/1705.03122.pdf) | <ul><li>DUC-2004</li><li>Gigaword</li></ul> | <ul><li>DUC-2004</li><ul><li> ROUGE-1: 33.44 </li><li> ROUGE-2: **10.84** </li><li>ROUGE-L: 26.90 </li></ul><li>Gigaword</li><ul><li> ROUGE-1: 35.88 </li><li> ROUGE-2: 27.48 </li><li>ROUGE-L: 33.29 </li></ul></ul> | [PyTorch](https://github.com/facebookresearch/fairseq-py) | 2017
+
+
+#### 8. Dependency Parsing
+
+Research Paper | Datasets  | Metric | Source Code | Year  
+------------ | ------------- | ------------ | ------------- | -------------  
+[Globally Normalized Transition-Based Neural Networks](https://arxiv.org/pdf/1603.06042.pdf) | <ul><li>Final CoNLL ’09 dependency parsing </li></ul> | <ul><li> 94.08% UAS accurancy</li> <li>92.15% LAS accurancy</li></ul> | <ul><li>[SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) </li></ul>| <ul><li>2017</li></ul>
 
 
 ### Computer Vision
@@ -194,7 +257,8 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/pdf/1710.09829.pdf'> Dynamic Routing Between Capsules </a></td>
       <td align="left"> <ul><li> MNIST </li></ul> </td>
       <td align="left"> <ul><li> Test Error: 0.25±0.005 </li></ul> </td>
-      <td align="left"> <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li></ul> </td>
+      <td align="left"> <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li> <li>  <a href='https://github.com/loretoparisi/CapsNet'>List of all implementations</a> </li>
+          </ul>  </td>
       <td align="left">2017</td>    
     </tr>
     <tr>
@@ -219,10 +283,34 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left">2017</td>    
     </tr>
     <tr>
+      <td><a href='https://arxiv.org/abs/1708.04896'> Random Erasing Data Augmentation </a></td>
+      <td align="left"> <ul><li> CIFAR-10 </li> <li> CIFAR-100 </li> <li> Fashion-MNIST </li> </ul></td>
+      <td align="left"> <ul><li> Test Error: 3.08% </li>
+          <li> Test Error: 17.73% </li>
+          <li> Test Error: 3.65% </li>
+          </ul> </td>
+      <td align="left"> <a href='https://github.com/zhunzhong07/Random-Erasing'> Pytorch </td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
       <td><a href='https://arxiv.org/pdf/1710.09829.pdf'> Dynamic Routing Between Capsules </a></td>
       <td align="left"> <ul><li> MultiMNIST </li></ul></td>
       <td align="left"> <ul><li> Test Error: 5% </li></ul> </td>
-      <td align="left"> <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li></ul> </td>
+      <td align="left"> <ul><li> <a href='https://github.com/gram-ai/capsule-networks'>PyTorch</a> </li><li> <a href='https://github.com/naturomics/CapsNet-Tensorflow'>Tensorflow</a> </li><li> <a href='https://github.com/XifengGuo/CapsNet-Keras'>Keras</a> </li><li>  <a href='https://github.com/soskek/dynamic_routing_between_capsules'>Chainer</a> </li><li>  <a href='https://github.com/loretoparisi/CapsNet'>List of all implementations</a> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1707.07012.pdf'>Learning Transferable Architectures for Scalable Image Recognition</a></td>
+      <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
+      <td align="left"> <ul><li> Top-1 Error:17.3 </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnett'>Tensorflow</a> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+     <tr>
+      <td><a href='https://arxiv.org/pdf/1709.01507.pdf'>Squeeze-and-Excitation Networks </a></td>
+      <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
+      <td align="left"> <ul><li> Top-1 Error: 18.68 </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/hujie-frank/SENet'>CAFFE</a> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
     <tr>
@@ -255,11 +343,70 @@ Research Paper | Datasets  | Metric | Source Code | Year
   </tbody>
 </table>
 
+#### 3. Visual Question Answering
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1708.02711'>Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge</a></td>
+      <td align="left"> <ul><li> VQA  </li></ul></td>
+      <td align="left"> <ul><li> Overall score: 69 </li></ul> </td>
+      <td align="left"> <ul><li>   <a href=''>NOT FOUND</a> </li></ul> </li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
+
+#### 4. Person Re-identification
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1708.04896'> Random Erasing Data Augmentation </a></td>
+      <td align="left"> <ul><li> <a href='http://www.liangzheng.org/Project/project_reid.html'> Market-1501 </a> </li> <li> <a href='https://github.com/zhunzhong07/person-re-ranking'> CUHK03-new-protocol </a> </li> <li> <a href='https://github.com/layumi/DukeMTMC-reID_evaluation'> DukeMTMC-reID </a> </li> </ul></td>
+      <td align="left"> <ul><li> Rank-1: 89.13 mAP: 83.93 </li>
+          <li> Rank-1: 84.02 mAP: 78.28 </li>
+          <li> labeled (Rank-1: 63.93 mAP: 65.05) detected (Rank-1: 64.43 mAP: 64.75) </li>
+          </ul> </td>
+      <td align="left"> <a href='https://github.com/zhunzhong07/Random-Erasing'> Pytorch </td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
+
 ### Speech
 #### 1. ASR
-Research Paper | Datasets  | Metric | Source Code | Year
------------- | ------------- | ------------ | ------------- | -------------
-[The Microsoft 2017 Conversational Speech Recognition System](https://arxiv.org/pdf/1708.06073.pdf) | Switchboard Hub5'00  | WER: 5.1 | NOT FOUND | 2017
+
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1708.06073.pdf'>The Microsoft 2017 Conversational Speech Recognition System</a></td>
+      <td align="left"> <ul><li> Switchboard Hub5'00  </li></ul></td>
+      <td align="left"> <ul><li> WER: 5.1  </li></ul> </td>
+      <td align="left"> <ul><li>  <a href=''>NOT FOUND</a></li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
+  </tbody>
+</table>
 
 
 ## Semi-supervised Learning
@@ -353,10 +500,50 @@ USING MONOLINGUAL CORPORA ONLY</a></td>
 
   </tbody>
 </table>  
+
 ## Transfer Learning
+
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+       <tr> 
+      <td><a href='https://arxiv.org/pdf/1706.05137.pdf'>One Model To Learn Them All</a></td>
+      <td align="left"> <ul><li> WMT EN → DE </li><li> WMT EN → FR (BLEU) </li><li> ImageNet (top-5 accuracy) </li></ul></td>
+      <td align="left"> <ul><li> BLEU: 21.2 </li> <li> BLEU:30.5  </li><li> 86% </li></ul> </td>
+      <td align="left"><ul><li><a href='https://github.com/tensorflow/tensor2tensor'>Tensorflow</a></ul></li></td>
+      <td align="left">2017</td>    
+    </tr>
+      
+
+  </tbody>
+</table>  
+
 
 
 ## Reinforcement Learning
+<table>
+  <tbody>
+    <tr>
+      <th width="30%">Research Paper</th>
+      <th align="center" width="20%">Datasets</th>
+      <th align="center" width="20%">Metric</th>
+      <th align="center" width="20%">Source Code</th>
+      <th align="center" width="10%">Year</th>
+       <tr> 
+      <td><a href='http://www.gwern.net/docs/rl/2017-silver.pdf'>Mastering the game of Go without human knowledge</a></td>
+      <td align="left"> the game of Go </td>
+      <td align="left"> ElO Rating: 5185</td>
+      <td align="left"><ul><li><a href=https://github.com/gcp/leela-zero>C++</a></ul></li></td>
+      <td align="left">2017</td>    
+    </tr>
+      
 
+  </tbody>
+</table>  
 
 Email: redditsota@gmail.com 
