@@ -303,7 +303,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/pdf/1707.07012.pdf'>Learning Transferable Architectures for Scalable Image Recognition</a></td>
       <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
       <td align="left"> <ul><li> Top-1 Error:17.3 </li></ul> </td>
-      <td align="left"> <ul><li>  <a href='https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnett'>Tensorflow</a> </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet'>Tensorflow</a> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
      <tr>
