@@ -293,6 +293,15 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left">2017</td>    
     </tr>
     <tr>
+      <td><a href='https://arxiv.org/abs/1709.07634'> EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks </a></td>
+      <td align="left"> <ul><li> CIFAR-10 </li> <li> CIFAR-100 </li> </ul></td>
+      <td align="left"> <ul><li> Test Error: 3.56% </li>
+          <li> Test Error: 16.53% </li>
+          </ul> </td>
+      <td align="left"> <a href='https://github.com/D-X-Y/EraseReLU'> Pytorch </td>
+      <td align="left">2017</td>    
+    </tr>
+    <tr>
       <td><a href='https://arxiv.org/pdf/1710.09829.pdf'> Dynamic Routing Between Capsules </a></td>
       <td align="left"> <ul><li> MultiMNIST </li></ul></td>
       <td align="left"> <ul><li> Test Error: 5% </li></ul> </td>
