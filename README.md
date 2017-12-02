@@ -449,7 +449,7 @@ Semi-supervised Learning </a></td>
     <tr>
       <td><a href='https://arxiv.org/pdf/1706.08249.pdf'> Few Shot Object Detection </a></td>
       <td align="left"> <ul><li> VOC2007 </li><li> VOC2012 </li></ul></td>
-      <td align="left"> <ul><li> mAP : 41.7 </li><li> mAP: 35.4 </li></ul> </td>
+      <td align="left"> <ul><li> mAP : 41.7 </li><li> mAP : 35.4 </li></ul> </td>
       <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li> </td>
       <td align="left">2017</td>    
     </tr>
