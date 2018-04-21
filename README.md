@@ -337,7 +337,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/pdf/1703.06870.pdf'>Mask R-CNN</a></td>
       <td align="left"> <ul><li> COCO  </li></ul></td>
       <td align="left"> <ul><li> Average Precision: 37.1% </li></ul> </td>
-      <td align="left"> <ul><li>  <a href='https://github.com/matterport/Mask_RCNN'>TensorFlow (This is not official. Performance is worse than the reported AP)</a> </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/facebookresearch/Detectron'>Detectron (Official Version)</a> </li><li>  <a href='https://github.com/TuSimple/mx-maskrcnn'>MXNet</a> </li><li>  <a href='https://github.com/matterport/Mask_RCNN'>Keras</a> </li><li>  <a href='https://github.com/CharlesShang/FastMaskRCNN'>TensorFlow </a> </li></ul> </td>
       <td align="left">2017</td>    
     </tr>
   </tbody>
