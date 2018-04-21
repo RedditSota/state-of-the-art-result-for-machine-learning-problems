@@ -406,6 +406,13 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left"> <ul><li>  <a href=''>NOT FOUND</a></li></ul> </td>
       <td align="left">2017</td>    
     </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1801.00059.pdf'>The CAPIO 2017 Conversational Speech Recognition System</a></td>
+      <td align="left"> <ul><li> Switchboard Hub5'00  </li></ul></td>
+      <td align="left"> <ul><li> WER: 5.0  </li></ul> </td>
+      <td align="left"> <ul><li>  <a href=''>NOT FOUND</a></li></ul> </td>
+      <td align="left">2017</td>    
+    </tr>
   </tbody>
 </table>
 
