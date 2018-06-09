@@ -199,7 +199,7 @@ Leader Board
       <td align="left">The Stanford Question Answering Dataset</td>
       <td align="left"><ul><li> Exact Match: 83.877 </li><li> F1: 89.737 </li></ul></td>
       <td align="left"><a href='https://github.com/NLPLearn/QANet'>Tensorflow</a> </td>
-      <td align="left">2017</td>    
+      <td align="left">2018</td>    
   </tr>
   </tbody>
 </table>
