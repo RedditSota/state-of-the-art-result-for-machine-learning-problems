@@ -195,10 +195,10 @@ Leader Board
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
-      <td><a href='https://rajpurkar.github.io/SQuAD-explorer/'> Interactive AoA Reader+ (ensemble) </a></td>
+      <td><a href='https://rajpurkar.github.io/SQuAD-explorer/'> QANet (ensemble) </a></td>
       <td align="left">The Stanford Question Answering Dataset</td>
-      <td align="left"><ul><li> Exact Match: 79.083 </li><li> F1: 86.450 </li></ul></td>
-      <td align="left"><a href=''>NOT FOUND</a> </td>
+      <td align="left"><ul><li> Exact Match: 83.877 </li><li> F1: 89.737 </li></ul></td>
+      <td align="left"><a href='https://github.com/NLPLearn/QANet'>Tensorflow</a> </td>
       <td align="left">2017</td>    
   </tr>
   </tbody>
