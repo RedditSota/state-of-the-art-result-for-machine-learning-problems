@@ -515,12 +515,19 @@ Improve the Person Re-identification Baseline in vitro </a></td>
        <tr> 
       <td><a href='https://arxiv.org/pdf/1711.00043.pdf'>UNSUPERVISED MACHINE TRANSLATION
 USING MONOLINGUAL CORPORA ONLY</a></td>
-      <td align="left"> <ul><li> Multi30k-Task1(en-fr fr-en de-en en-de)  </li><li> WMT16 (en-fr fr-en de-en en-de) </li></ul></td>
-      <td align="left"> <ul><li> BLEU:(32.76 32.07 26.26 22.74) </li> <li> BLEU:(15.05 14.31 13.33 9.64) </li></ul> </td>
+      <td align="left"> <ul><li> Multi30k-Task1(en-fr fr-en de-en en-de)  </li></ul></td>
+      <td align="left"> <ul><li> BLEU:(32.76 32.07 26.26 22.74) </li></ul> </td>
       <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
       <td align="left">2017</td>    
     </tr>
-      
+        <tr> 
+      <td><a href='https://arxiv.org/pdf/1804.09057.pdf'>Unsupervised Neural Machine Translation with Weight Sharing</a></td>
+      <td align="left"> <ul><li> WMT14(en-fr fr-en)  </li><li> WMT16 (de-en en-de) </li></ul></td>
+      <td align="left"> <ul><li> BLEU:(16.97 15.58) </li> <li> BLEU:(14.62 10.86) </li></ul> </td>
+      <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
+      <td align="left">2018</td>    
+    </tr>
+     
 
   </tbody>
 </table>  
