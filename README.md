@@ -326,7 +326,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/pdf/1611.05431.pdf'>Aggregated Residual Transformations for Deep Neural Networks </a></td>
       <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
       <td align="left"> <ul><li> Top-1 Error: 20.4% </li></ul> </td>
-      <td align="left"> <ul><li>  <a href='https://github.com/facebookresearch/ResNeXt'>PyTorch</a> </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/facebookresearch/ResNeXt'>Torch</a> </li></ul> </td>
       <td align="left">2016</td>    
     </tr>
   </tbody>
