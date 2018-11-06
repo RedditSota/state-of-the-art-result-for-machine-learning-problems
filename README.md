@@ -175,7 +175,14 @@ Leader board:
       <td align="left">Stanford Natural Language Inference (SNLI)</td>
       <td align="left">Accuracy: 88.9</td>
       <td align="left"><a href='https://github.com/YichenGong/Densely-Interactive-Inference-Network'>Tensorflow</a> </td>
-      <td align="left">2017</td>    
+      <td align="left">2017</td>
+  </tr>
+    <tr>
+      <td><a href=https://arxiv.org/pdf/1810.04805.pdf> BERT-LARGE (ensemble) </a></td>
+      <td align="left">Multi-Genre Natural Language Inference (MNLI)</td>
+      <td align="left"><ul><li>Matched accuracy: 86.7</li><li>Mismatched accuracy: 85.9</td>
+      <td align="left"><ul><li><a href='https://github.com/google-research/bert'>Tensorflow</a></li><li><a href='https://github.com/huggingface/pytorch-pretrained-BERT'>PyTorch</a></li> </td>
+      <td align="left">2018</td>
   </tr>
   </tbody>
 </table>
