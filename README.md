@@ -141,14 +141,14 @@ NEURAL MACHINE TRANSLATION</a></td>
       <td><a href='https://arxiv.org/abs/1705.09207'> Learning Structured Text Representations </a></td>
       <td align="left">Yelp</td>
       <td align="left">Accuracy: 68.6</td>
-      <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li></td>
+      <td align="left"> <ul><li><a href='https://github.com/nlpyang/structured'>Tensorflow</a></ul></li></td>
       <td align="left">2017</td>    
     </tr>
     <tr>
       <td><a href='https://arxiv.org/pdf/1710.00519.pdf'>Attentive Convolution</a></td>
       <td align="left">Yelp</td>
       <td align="left">Accuracy: 67.36</td>
-      <td align="left"> <ul><li><a href=''>NOT FOUND</a></ul></li></td>
+      <td align="left"> <ul><li><a href='https://github.com/yinwenpeng/Attentive_Convolution'>Theano</a></ul></li></td>
       <td align="left">2017</td>   
     </tr>
   </tbody>
