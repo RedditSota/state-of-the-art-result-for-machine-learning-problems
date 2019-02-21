@@ -1,6 +1,6 @@
 # State-of-the-art result for all Machine Learning Problems
 
-### LAST UPDATE: 6th November 2018
+### LAST UPDATE: 20th Februray 2019
 
 ### NEWS: I am looking for a Collaborator esp who does research in NLP, Computer Vision and Reinforcement learning. If you are not a researcher, but you are willing, contact me. Email me: yxt.stoaml@gmail.com
 
