@@ -42,6 +42,13 @@ This summary is categorized into:
       <th align="center" width="10%">Year</th>
     </tr>  
     <tr>
+      <td><a href='https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf'> Language Models are Unsupervised Multitask Learners </a></td>
+      <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
+      <td align="left"><ul><li> Perplexity: 35.76 </li><li> Perplexity: 18.34 </li></ul></td>
+      <td align="left"><a href='https://github.com/openai/gpt-2'>Tensorflow </a></td>
+      <td align="left">2019</td>   
+    </tr>
+    <tr>
       <td><a href='https://arxiv.org/pdf/1711.03953.pdf'>BREAKING THE SOFTMAX BOTTLENECK: A HIGH-RANK RNN LANGUAGE MODEL </a></td>
       <td align="left"><ul><li> PTB </li><li> WikiText-2 </li></ul></td>
       <td align="left"><ul><li> Perplexity: 47.69 </li><li> Perplexity: 40.68 </li></ul></td>
@@ -92,6 +99,13 @@ This summary is categorized into:
       <th align="center" width="20%">Metric</th>
       <th align="center" width="20%">Source Code</th>
       <th align="center" width="10%">Year</th>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/pdf/1808.09381v2.pdf'> Understanding Back-Translation at Scale </a></td>
+      <td align="left"> <ul><li>WMT 2014 English-to-French </li><li>WMT 2014 English-to-German </li></ul></td>
+      <td align="left"> <ul><li>  BLEU: 45.6 </li><li>   BLEU: 35.0 </li></ul> </td>
+      <td align="left"> <ul><li><a href='https://github.com/pytorch/fairseq'>PyTorch</a></li></ul></td>
+      <td align="left">2018</td>    
     </tr>
     <tr>
       <td><a href='https://arxiv.org/pdf/1711.02132.pdf'>WEIGHTED TRANSFORMER NETWORK FOR
