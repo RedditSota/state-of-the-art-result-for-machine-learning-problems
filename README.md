@@ -290,9 +290,9 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td align="left">2011</td>    
     </tr>
     <tr>
-      <td><a href='https://arxiv.org/pdf/1811.06965.pdf'>Gaint AmoebaNet with GPipe</a></td>
-      <td align="left"> <ul><li> CIFAR-10 </li> <li> CIFAR-100</li><li> ...</li></ul></td>
-      <td align="left"> <ul><li> Test Error: 1.0% </li> <li> Test Error: 8.7% </li><li> ...</li></ul> </td>
+      <td><a href='https://arxiv.org/pdf/1811.06965.pdf'>Giant AmoebaNet with GPipe</a></td>
+      <td align="left"> <ul><li> CIFAR-10 </li> <li> CIFAR-100</li><li> ImageNet-1k</li><li> ...</li></ul></td>
+      <td align="left"> <ul><li> Test Error: 1.0% </li> <li> Test Error: 8.7% </li><li> Top-1 Error 15.7</li><li> ...</li></ul> </td>
       <td align="left"> <ul><li> <a href=''>NOT FOUND</a> </li></ul> </td>
       <td align="left">2018</td>    
     </tr>
