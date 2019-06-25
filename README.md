@@ -216,12 +216,19 @@ Leader Board
       <th align="center" width="10%">Year</th>
     </tr>
     <tr>
-      <td><a href='https://arxiv.org/pdf/1810.04805.pdf'> BERT-LARGE (ensemble) </a></td>
-      <td align="left">The Stanford Question Answering Dataset</td>
-      <td align="left"><ul><li> Exact Match: 87.4 </li><li> F1: 93.2 </li></ul></td>
-      <td align="left"><ul><li><a href='https://github.com/google-research/bert'>Tensorflow</a></li><li><a href='https://github.com/huggingface/pytorch-pretrained-BERT'>PyTorch</a> </td>
-      <td align="left">2018</td>    
-  </tr>
+      <td><a href='https://arxiv.org/abs/1906.08237'> XLNet (single model) </a></td>
+      <td align="left">SQuAD 1.1</td>
+      <td align="left"><ul><li> Exact Match: 89.898 </li><li> F1: 95.080 </li></ul></td>
+      <td align="left"><ul><li><a href='https://github.com/zihangdai/xlnet'>Tensorflow</a></li></td>
+      <td align="left">2019</td>
+    </tr>
+    <tr>
+      <td><a href='https://arxiv.org/abs/1906.08237'> XLNet (single model) </a></td>
+      <td align="left">SQuAD 2.0</td>
+      <td align="left"><ul><li> Exact Match: 86.346 </li><li> F1: 89.133 </li></ul></td>
+      <td align="left"><ul><li><a href='https://github.com/zihangdai/xlnet'>Tensorflow</a></li></td>
+      <td align="left">2019</td>
+    </tr>
   </tbody>
 </table>
 
